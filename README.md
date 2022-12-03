@@ -1,5 +1,5 @@
 
-•📚Estudante de Eng. Computação 
+•📚Estudante de Análise e Desenvolvimento de Sis.
 
 •👩🏽‍💻Linguagens Python e SQL
 
