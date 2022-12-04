@@ -6,5 +6,5 @@
 
 🧠Mas conheço sobre de Java e C.
 
-📊Interesse em BI e Machine Learning.
+📊Interesse em BI, Dados e Machine Learning.
 
