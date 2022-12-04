@@ -1,6 +1,10 @@
+✌"Hello World!!"
 
-•📚Estudante de Análise e Desenvolvimento de Sis.
+📚Estudante de Análise e Desenvolvimento de Sis.
 
-•👩🏽‍💻Linguagens Python e SQL
+👩🏽‍💻Gosto de trabalhar com Python e SQL.
 
-•📊Interesse em Dados e Machine Learning
+🧠Mas conheço sobre de Java e C.
+
+📊Interesse em BI e Machine Learning.
+
